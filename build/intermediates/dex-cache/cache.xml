@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Matt\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.1.1\4df80ea443d3acad1a5a6936f0561e1db60bd196\firebase-client-jvm-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4df80ea443d3acad1a5a6936f0561e1db60bd196">
+        <dex dex="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.1.1-76a160c6e27b74724472e5d402a4c05a5f32896c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2-164514166a0ca2863d9f5c808d6e929e3260ec07.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d7af88883f8983d994a4ce3b384d34a54c51f9a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2-7ded10c3a18daacbb7caa0c07bb7f3ab234e265c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.10\ddce2c65136c1de8000f8932d8b7ab16d5d336b9\tubesock-0.0.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ddce2c65136c1de8000f8932d8b7ab16d5d336b9">
+        <dex dex="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\pre-dexed\debug\tubesock-0.0.10-229d16f6bc82a75554f54531fe0fdd156e118618.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\pre-dexed\debug\classes-119c243a3c3ceec51a083b07d36df474f5c897ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2-4b44abae7d49397bfd591c8d58c08a9e78f70d77.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\pre-dexed\debug\classes-b358bd60e65f377504c66759caef811aca9deabe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-75c52bad4c520d16a39fb034e615205c650e490d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Matt\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.1.1\a68e32b8f34baf15b96e2e4b5913efd8bb2be0c9\firebase-client-android-2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a68e32b8f34baf15b96e2e4b5913efd8bb2be0c9">
+        <dex dex="C:\Users\Matt\Dropbox\App Development\Project 2\CSGOStats\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.1.1-0bde957d58087e8e31ea920d8caf2d56935b654c.jar" />
+    </item>
+
+</items>

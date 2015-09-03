@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/button_material_dark">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mapTitleLayout">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/mapTitle"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="@color/primary_text_default_material_dark"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/statsTitleLayout">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/kdr_text"
+            android:id="@+id/kdr"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="#D3D3D3"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/ct_avg_text"
+            android:id="@+id/ctAvg"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="#D3D3D3"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/t_avg_text"
+            android:id="@+id/tAvg"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="#D3D3D3"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/statsLayout"
+        android:layout_marginBottom="4dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/kdrValue"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="#D3D3D3"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/ctAvgValue"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="#D3D3D3"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/tAvgValue"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textColor="#D3D3D3"/>
+    </LinearLayout>
+</LinearLayout>
